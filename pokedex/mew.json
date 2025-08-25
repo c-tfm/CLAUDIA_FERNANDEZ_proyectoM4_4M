@@ -1,0 +1,20 @@
+{
+    "nombre": "Mew",
+    "altura": 4,
+    "peso": 40,
+    "tipos": [
+        "psychic"
+    ],
+    "habilidades": [
+        "synchronize"
+    ],
+    "movimientos": [
+        "pound",
+        "mega-punch",
+        "pay-day",
+        "fire-punch",
+        "ice-punch"
+    ],
+    "imagen_base64": "iVBORw0KGgoAAAANSUhEUgAAAGAAAABgBAMAAAAQtmoLAAAAJFBMVEUAAAAAAAAYOWopYuZaKVKDrPa0YpTNzc3ug7T/tNX/1e7///9GVzdWAAAAAXRSTlMAQObYZgAAAbZJREFUWMPtlc2K2zAUhU9AZC1BGGaeoetCoRubCtd+jIAR8TN05RLMdXYGY3Syns34DebtukjSpD+25Xars/X5uD+SjoGoqKioqP+Us3adn74xK/xbdsZmOhyoOg3YfbBfUQNAeImiu3DBJfJkEbAA4G4dybWX6Z623pVJxuQK1FgEBrKnv35Xx0VAnUhSfgemh1DjSPLWEnK9DLyR5PHXLd2H+XPxo/fuDtyMM8D59P1byy4c4Onr5/cVwDPPHz6+MwGSR2M2DbT88qntNezrI5BPn0NLktLsWD9uaQYgBzYi9K2+G3/eqb9One4O0rLePRinZwaUUbkIyxQANrcR5t6DyoUkqQFkewCwVuZeXCZSkWSnYZ0GtlaknivgxeQkydq6PeAqymwBvBgokqTPnMb2PNLXs894AyiSLX1qgGoc35pkOVw4kP4IIB9Hny5nRcGBl05UanYBaZRLL5Q6OO+KXuRZVgCKT1IfpAwOSCVHY4xz4RmcSpPCuDIJJowrgafDMRjYZGWCnH34jyRzGuoeaGEAihUlNi4BimFFTwZANoQv9nIeVboOQKoRFRUVFfUP+gEAyZwxpBis3QAAAABJRU5ErkJggg==",
+    "no_existe": false
+}
